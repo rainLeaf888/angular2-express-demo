@@ -1,0 +1,17 @@
+/*
+* @Author: kyy
+* @Date:   2016-12-01 21:54:06
+* @Last Modified by:   kyy
+* @Last Modified time: 2016-12-01 21:56:33
+*/
+html, body, h1, h2, h3{
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+.btn{
+	padding: 4px 8px;
+	background-color: green;
+	border: 1px solid green;
+	border-radius: 6px;
+}
