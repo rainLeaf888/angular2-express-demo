@@ -7,6 +7,6 @@ angular2 使用rotue，观察者模式模式项目使用，但在结合express�
 
 1.@component中的组件，引入css， styleUrls: [''] 引用外部css文件时，报错
 
-2. router 的loadChildren：''，异步加载不行
+2.router 的loadChildren：''，异步加载不行
 
 3.component中<router-outlet>有此标签，且route的path为'',不渲染出来
